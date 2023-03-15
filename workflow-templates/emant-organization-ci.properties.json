@@ -1,7 +1,7 @@
 {
     "name": "Emant Organization Workflow",
     "description": "Emant Organization CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "emant-organization-ci",
     "categories": [
         "Go"
     ],
